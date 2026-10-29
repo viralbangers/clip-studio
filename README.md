@@ -5,7 +5,7 @@ Link in, client-ready short-form clips out.
 ## Setting up a fresh machine
 
 ```bash
-git clone git@github.com:cokezero256/clip-studio.git
+git clone git@github.com:viralbangers/clip-studio.git
 cd clip-studio
 npm install
 cp .env.example .env        # then fill in the API keys
